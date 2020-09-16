@@ -1,0 +1,266 @@
+/* body {
+  background-image: url("https://patrickvhessman.s3.amazonaws.com/web+samples/space-bg.png");
+  background-size: cover;
+} */
+
+.App {
+  /* font-family: sans-serif;
+  text-align: center; */
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15;
+  max-width: 1024px;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+.App a,
+.pseudoLink {
+  color: #ce372b;
+  transition: color 0.5s ease;
+}
+
+.App a:hover,
+.pseudoLink:hover {
+  color: #ff001d;
+  /* color: #b23600; */
+  transition: color 0.5s ease;
+  text-decoration: none;
+  cursor: url(https://unpkg.com/nes.css/assets/cursor-click.png), pointer;
+}
+
+.App h4 {
+  font-size: 14px;
+}
+
+.App h5 {
+  font-size: 0.9rem;
+}
+
+.App li {
+  margin-bottom: 5px;
+}
+
+.main {
+  position: relative;
+  z-index: 10;
+}
+
+.headline {
+  color: #ce372b;
+  /* -webkit-text-stroke: 1px #212529; */
+  box-sizing: border-box;
+  font-size: 1.5em;
+}
+
+.avatar {
+  max-width: 100px;
+}
+
+.awsLogo {
+  text-align: center;
+  margin-bottom: 10px;
+  /* image-rendering: pixelated; */
+}
+
+.col2ListDiv ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.main .nes-list.is-circle li::before {
+  color: #fff;
+}
+
+.font12 {
+  font-size: 12px;
+}
+
+.main .nes-container.is-dark::before {
+  background-color: rgb(33, 37, 41, 0.7);
+}
+
+.nes-btn:hover,
+.nes-btn {
+  transition: background-color 0.5s ease, box-shadow 0.5s ease;
+}
+
+.resumeItems {
+  padding-bottom: 5px;
+  border-bottom: 2px white solid;
+  margin-bottom: 1rem;
+}
+
+.resumeItems:last-of-type {
+  border-bottom: none;
+}
+
+.waterfallGrid {
+  -webkit-column-count: 3;
+  -webkit-column-gap: 10px;
+  -webkit-column-fill: auto;
+  -moz-column-count: 3;
+  -moz-column-gap: 10px;
+  -moz-column-fill: auto;
+  column-count: 3;
+  column-gap: 15px;
+  column-fill: auto;
+}
+
+.waterfallGrid .react-reveal {
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  /* column-break-inside: avoid; */
+}
+
+.educationSection p {
+  margin-bottom: 5px;
+}
+
+.educationSection img {
+  margin-bottom: 1rem;
+  max-width: 200px;
+}
+
+.opacityHover {
+  transition: opacity 0.5s ease;
+}
+
+.opacityHover:hover {
+  transition: opacity 0.5s ease;
+  opacity: 0.7;
+}
+
+/* Background Elements */
+
+.space-bg,
+.bg-elements {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.stars {
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  -webkit-animation: spin 200s linear infinite;
+  -moz-animation: spin 200s linear infinite;
+  animation: spin 200s linear infinite;
+}
+
+.farPlanets {
+  position: fixed;
+  z-index: 3;
+  top: 0;
+  right: 0;
+  width: 100%;
+  animation: slide 120s linear infinite;
+  -webkit-animation: slide 120s linear infinite;
+  -moz-animation: slide 120s linear infinite;
+}
+
+.ringPlanet,
+.bigPlanet {
+  position: fixed;
+  z-index: 4;
+  top: 0;
+  width: 100%;
+}
+
+.ringPlanet {
+  left: 0;
+}
+
+@media (max-width: 992px) {
+  .waterfallGrid {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .col2ListDiv ul {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+  }
+  body {
+    background-image: url("https://patrickvhessman.s3.amazonaws.com/web+samples/space-bg.png");
+    background-size: cover;
+  }
+  .main .nes-container.is-dark::before {
+    background-color: rgb(33, 37, 41);
+  }
+
+  .resumeItems div {
+    display: block !important;
+  }
+
+  .ringPlanet,
+  .bigPlanet,
+  .farPlanets,
+  .stars,
+  .space-bg {
+    display: none;
+  }
+
+  .waterfallGrid {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }
+}
+
+/* Animations */
+
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes slide {
+  0% {
+    -webkit-transform: translate3d(2000px, 0, 0);
+    -moz-transform: translate3d(2000px, 0, 0);
+    transform: translate3d(2000px, 0, 0);
+  }
+  100% {
+    -webkit-transform: translate3d(-2000px, 0, 0);
+    -moz-transform: translate3d(-2000px, 0, 0);
+    transform: translate3d(-2000px, 0, 0);
+  }
+}
+
+@keyframes rocketFlight {
+  0% {
+    -webkit-transform: translate3d(-2000px, 0, 0);
+    -moz-transform: translate3d(-2000px, 0, 0);
+    transform: translate3d(-2000px, 0, 0);
+  }
+  100% {
+    -webkit-transform: translate3d(2000px, 0, 0);
+    -moz-transform: translate3d(2000px, 0, 0);
+    transform: translate3d(2000px, 0, 0);
+  }
+}

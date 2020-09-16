@@ -1,0 +1,130 @@
+{
+  "portfolioItems": [
+    {
+      "title": "IEM COVID-19 Projection Dashboard",
+      "description": "Project I was a contributor for at IEM to display and forecast COVID-19 cases in the United States.",
+      "URL": "https://iem-modeling.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/iem-modeling.png"
+    },
+    {
+      "title": "Weather Forecast React App",
+      "description": "React app utilizing Axios and the OpenWeatherMap API",
+      "URL": "http://react-forecast-app.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/weather-app.png"
+    },
+    {
+      "title": "React Units of Length Measurement Converter",
+      "description": "Demo project to show proficiency with React.",
+      "URL": "http://react-measurements-converter.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/measurement-converter.png"
+    },
+    {
+      "title": "React Markdown Previewer",
+      "description": "Project created for FreeCodeCamp‘s Front End Libraries Certification utilizing React.",
+      "URL": "",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/markdown-previewer.png"
+    },
+    {
+      "title": "React Meme Generator",
+      "description": "Demo project to show proficiency with React and API calls.",
+      "URL": "http://react-meme-generator.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/meme-generator.png"
+    },
+    {
+      "title": "React Pomodoro Clock",
+      "description": "Project created for FreeCodeCamp‘s Front End Libraries Certification utilizing React.",
+      "URL": "http://hessman-pomodoro-clock.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/pomodoro-clock.png"
+    },
+    {
+      "title": "React Calculator",
+      "description": "Project created for FreeCodeCamp‘s Front End Libraries Certification utilizing React.",
+      "URL": "http://hessman-react-calculator-app.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/js-calculator.png"
+    },
+    {
+      "title": "Pokémon Browser React API Project",
+      "description": "Demo project to show proficiency with React and RESTful APIs.",
+      "URL": "http://pokemon-browser.s3.amazonaws.com/index.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/pokemon-browser.png"
+    },
+    {
+      "title": "Vue.js Video Game Quiz App",
+      "description": "Demo project to show proficiency with Vue.js and API calls.",
+      "URL": "http://vue-video-game-quiz.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/vue-video-game-quiz_thumb.png"
+    },
+    {
+      "title": "The Memory Cottage",
+      "description": "WordPress site created for The Memory Cottage, a beach boutique store in Shallotte, NC",
+      "URL": "http://www.thememorycottageshallotte.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/memory-cottage.png"
+    },
+    {
+      "title": "Random Quote Generator",
+      "description": "Project created for FreeCodeCamp's Front End Libraries Certification",
+      "URL": "https://patrickvhessman.s3.amazonaws.com/web+samples/randomQuoteGenerator.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/quote-generator.png"
+    },
+    {
+      "title": "Intuit Email Landing Page",
+      "description": "Web landing page created for Zift Solutions",
+      "URL": "https://s3.amazonaws.com/patrickvhessman/web+samples/Zift+Panel.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/quickbooks.png"
+    },
+    {
+      "title": "Octum’s Magic Item Emporium",
+      "description": "Demo e-commerce site to show proficiency with Magento",
+      "URL": "http://www.patrickvhessman.com/magentotest/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/octum-magento.png"
+    },
+    {
+      "title": "VMware Microsite",
+      "description": "Web landing page created for Zift Solutions",
+      "URL": "https://patrickvhessman.github.io/vmware-index.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/dell-emc.png"
+    },
+    {
+      "title": "Dungeons & Dragons Alignment Chart Editor",
+      "description": "React demo project",
+      "URL": "https://alignment-chart-builder.s3.amazonaws.com/index.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/alignment-chart-generator.png"
+    },
+    {
+      "title": "React Router To-Do List App",
+      "description": "Demo project to show proficiency with React and React-Router",
+      "URL": "http://react-router-todolist.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/todolist_routing.png"
+    },
+    {
+      "title": "Free Code Camp – Technical Documentation Page Assignment",
+      "description": "Project created for FreeCodeCamp's Front End Libraries Certification",
+      "URL": "https://patrickvhessman.github.io/index.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/free-code-camp-documentation.png"
+    },
+    {
+      "title": "Etch-A-Sketch App",
+      "description": "Demo project created for The Odin Project curriculum",
+      "URL": "http://patrickvhessman.com/wp-content/uploads/2018/07/index.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/etch-a-sketch.png"
+    },
+    {
+      "title": "Tomb of Annihilation Jungle Travel Conditions Generator",
+      "description": "Custom tool to supplement Dungeons & Dragons games",
+      "URL": "http://www.patrickvhessman.com/oldsite/wp-content/uploads/2018/02/index.html",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/ToA-generator.png"
+    },
+    {
+      "title": "Drill Soul – Nerd Motivation and Self Improvement",
+      "description": "Nerd culture-themed motivational blog.",
+      "URL": "http://drillsoul.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/drill-soul.png"
+    },
+    {
+      "title": "The Blue Light Student Guide & Coupon Book",
+      "description": "Website created for Outside Media Group's university-focused student publication.",
+      "URL": "http://www.msupocketguide.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/msu-pocket-guide.png"
+    }
+  ]
+}
