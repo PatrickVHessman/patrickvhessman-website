@@ -7,6 +7,12 @@
       "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/iem-modeling.png"
     },
     {
+      "title": "Timestamp API/Microservice",
+      "description": "Custom API that converts dates and displays timestamps.",
+      "URL": "https://phessman-timestamp-api.herokuapp.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/timestamp-api.png"
+    },
+    {
       "title": "Weather Forecast React App",
       "description": "React app utilizing Axios and the OpenWeatherMap API",
       "URL": "http://react-forecast-app.s3-website-us-east-1.amazonaws.com/",
@@ -91,22 +97,28 @@
       "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/alignment-chart-generator.png"
     },
     {
+      "title": "React BMI Calculator",
+      "description": "Demo project to show proficiency with React and SASS.",
+      "URL": "http://react-bmi-calculator.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/bmi-calculator.png"
+    },
+    {
       "title": "React Router To-Do List App",
-      "description": "Demo project to show proficiency with React and React-Router",
+      "description": "Demo project to show proficiency with React, React-Router, and Redux",
       "URL": "http://react-router-todolist.s3-website-us-east-1.amazonaws.com/",
       "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/todolist_routing.png"
+    },
+    {
+      "title": "D&D 5E Wild Magic Surge Generator",
+      "description": "Demo app to show proficiency with React and React Router.",
+      "URL": "http://wild-magic-surge.s3-website-us-east-1.amazonaws.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/wild-magic-surge.png"
     },
     {
       "title": "Free Code Camp – Technical Documentation Page Assignment",
       "description": "Project created for FreeCodeCamp's Front End Libraries Certification",
       "URL": "https://patrickvhessman.github.io/index.html",
       "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/free-code-camp-documentation.png"
-    },
-    {
-      "title": "Etch-A-Sketch App",
-      "description": "Demo project created for The Odin Project curriculum",
-      "URL": "http://patrickvhessman.com/wp-content/uploads/2018/07/index.html",
-      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/etch-a-sketch.png"
     },
     {
       "title": "Tomb of Annihilation Jungle Travel Conditions Generator",
