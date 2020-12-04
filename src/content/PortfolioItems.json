@@ -61,6 +61,12 @@
       "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/vue-video-game-quiz_thumb.png"
     },
     {
+      "title": "File Metadata Microservice",
+      "description": "Custom API that returns metadata of uploaded files in POST requests.",
+      "URL": "https://phessman-file-metadata-api.herokuapp.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/file-metadata-api.png"
+    },
+    {
       "title": "The Memory Cottage",
       "description": "WordPress site created for The Memory Cottage, a beach boutique store in Shallotte, NC",
       "URL": "http://www.thememorycottageshallotte.com/",
@@ -109,6 +115,12 @@
       "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/todolist_routing.png"
     },
     {
+      "title": "Request Header API/Microservice",
+      "description": "Custom API that returns browser information in GET requests",
+      "URL": "https://phessman-header-parser-api.herokuapp.com/",
+      "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/header-parser-api_featured.png"
+    },
+    {
       "title": "D&D 5E Wild Magic Surge Generator",
       "description": "Demo app to show proficiency with React and React Router.",
       "URL": "http://wild-magic-surge.s3-website-us-east-1.amazonaws.com/",
@@ -123,7 +135,7 @@
     {
       "title": "Tomb of Annihilation Jungle Travel Conditions Generator",
       "description": "Custom tool to supplement Dungeons & Dragons games",
-      "URL": "http://www.patrickvhessman.com/oldsite/wp-content/uploads/2018/02/index.html",
+      "URL": "http://toa-travel-generator.s3-website.us-east-2.amazonaws.com/",
       "image": "https://patrickvhessman.s3.amazonaws.com/web+samples/portfolio-thumbnails/ToA-generator.png"
     },
     {
