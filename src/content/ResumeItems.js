@@ -21,11 +21,16 @@ const ResumeItems = () => {
             </li>
             <li>
               Collect, monitor and review statistics and provide analysis on the
-              website’s health, engagement and performance
+              website’s health, engagement, SEO, and performance.
             </li>
             <li>
-              Contribute to development of data modeling software projects
+              Contribute to development of data modeling software projects.
             </li>
+            <li>Notable Accomplishments:
+            <ul>
+              <li>Increased IEM website traffic by 11% compared to year before my employment.</li>
+              <li>Solved mobile platform accessibility issues.</li>
+            </ul></li>
           </ul>
         </div>
       )
@@ -40,11 +45,11 @@ const ResumeItems = () => {
         <div>
           <ul>
             <li>
-              Implement and maintain custom web marketing plugins for numerous
+              Implemented and supported custom web marketing plugins for numerous
               clients; including Xerox, Dell, HP, Lenovo, Oracle, and Google.
             </li>
             <li>
-              Construct email marketing campaigns and templates to client
+              Executed email marketing campaigns and templates to client
               specifications.
             </li>
             <li>
@@ -55,11 +60,11 @@ const ResumeItems = () => {
                 </li>
                 <li>
                   Overhauled production process for instructional videos for
-                  using the Zift platform
+                  using the Zift platform.
                 </li>
-                <li>Administered extensive branding updates for clients.</li>
+                <li>Executed extensive branding updates for clients.</li>
                 <li>
-                  Augmented website templates to match current design trends
+                  Revitalized website templates to match current design trends.
                 </li>
               </ul>
             </li>

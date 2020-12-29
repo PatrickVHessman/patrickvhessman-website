@@ -29,7 +29,7 @@ const Overview = () => {
         challenge to tackle and new skills to learn. My skills have been applied
         to a wide range of projects; including COVID-19 data modeling, nonprofit
         organizations, magazine publications, and gaming assistance tools. I
-        have worked on teams that served clients such as Cisco, Xerox, Dell, HP,
+        have worked on teams that served clients such as Samsung, Intel, Siemens, VMware, Cisco, Xerox, Dell, HP,
         Lenovo, Oracle, IBM, Red Hat, and Google.
       </p>
 
