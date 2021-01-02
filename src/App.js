@@ -14,7 +14,7 @@ import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="App" name="top">
       <div className="main">
         <link
           href="https://fonts.googleapis.com/css?family=Press+Start+2P"

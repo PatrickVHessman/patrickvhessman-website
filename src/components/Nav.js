@@ -48,6 +48,12 @@ const Nav = () => {
       >
         Links & Contact
       </Button>
+      <button 
+      type="button" 
+      class="nes-btn is-error scroll-btn active"
+      to="top"
+        onClick={() => scrollTo("top")}
+      ><span>&lt;</span></button>
     </Container>
   );
 };

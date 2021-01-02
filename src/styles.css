@@ -65,9 +65,9 @@
 }
 
 .col2ListDiv ul {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
+  columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
 }
 
 .main .nes-list.is-circle li::before {
@@ -85,6 +85,20 @@
 .nes-btn:hover,
 .nes-btn {
   transition: background-color 0.5s ease, box-shadow 0.5s ease;
+}
+
+.scroll-btn {
+  position: fixed !important;
+  bottom: 1rem;
+  right: 2rem;
+  box-shadow: 0 5px 20px rgba(0,0,0,.6);
+  transition: all 0.3s ease;
+  z-index: 10;
+}
+
+.scroll-btn > span {
+  display: block;
+  transform: rotateZ(90deg);
 }
 
 .resumeItems {
@@ -185,7 +199,7 @@
 }
 
 @media (max-width: 992px) {
-  .waterfallGrid {
+  .waterfallGrid, .col2ListDiv ul {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
@@ -193,7 +207,7 @@
 }
 
 @media only screen and (max-width: 768px) {
-  .col2ListDiv ul {
+  .col2ListDiv ul, .waterfallGrid {
     columns: 1;
     -webkit-columns: 1;
     -moz-columns: 1;
@@ -216,12 +230,6 @@
   .stars,
   .space-bg {
     display: none;
-  }
-
-  .waterfallGrid {
-    -webkit-column-count: 1;
-    -moz-column-count: 1;
-    column-count: 1;
   }
 }
 
